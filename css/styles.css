@@ -465,7 +465,7 @@ justify-content: center;
         color:#404BBF ;
     }
 
-    .customers-link:hover + 
+   
 
 
         
@@ -479,11 +479,9 @@ justify-content: center;
 
     .portfolio{
         padding-top: 96px;
-        padding-bottom: 120px;
+        padding-bottom: 120px;}
 
-     }
-    
-
+  
     .portfolio-list{
         gap:24px;
         display: flex;
